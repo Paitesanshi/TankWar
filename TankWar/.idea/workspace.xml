@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f678534-1414-4490-b450-d6b59cbaf26e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UBqvBMg3MuYYlhv0X8Q2Tk8h28" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555200076789" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Online game 作业 18301107 王磊/Tank WAR" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="tank" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Start" />
+      <module name="tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.background.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TankClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.client.TankClient" />
+      <module name="tank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TankServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.TankServer" />
+      <module name="tank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TankClient" />
+      <item itemvalue="Application.TankServer" />
+      <item itemvalue="Application.Start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.TankServer" />
+        <item itemvalue="Application.TankClient" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f678534-1414-4490-b450-d6b59cbaf26e" name="Default Changelist" comment="" />
+      <created>1555064335874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555064335874</updated>
+      <workItem from="1555064339667" duration="5490000" />
+      <workItem from="1555070842644" duration="43277000" />
+      <workItem from="1574840565418" duration="3040000" />
+      <workItem from="1574998154394" duration="8528000" />
+      <workItem from="1575105243778" duration="642000" />
+      <workItem from="1575268494570" duration="17371000" />
+      <workItem from="1575290171813" duration="7505000" />
+      <workItem from="1575301031260" duration="1894000" />
+      <workItem from="1575350364541" duration="3257000" />
+      <workItem from="1575439703337" duration="731000" />
+      <workItem from="1575464146687" duration="5248000" />
+      <workItem from="1575469538542" duration="1419000" />
+      <workItem from="1575902422925" duration="788000" />
+      <workItem from="1576047113688" duration="4020000" />
+      <workItem from="1576062685377" duration="400000" />
+      <workItem from="1576063616316" duration="4832000" />
+      <workItem from="1576139885851" duration="5237000" />
+      <workItem from="1576288172777" duration="138000" />
+      <workItem from="1576508233114" duration="1100000" />
+      <workItem from="1576509381493" duration="21000" />
+      <workItem from="1576571752279" duration="10730000" />
+      <workItem from="1576634262225" duration="10654000" />
+      <workItem from="1576720167305" duration="180000" />
+      <workItem from="1576730329770" duration="5984000" />
+      <workItem from="1576757964870" duration="3090000" />
+      <workItem from="1576807808692" duration="321000" />
+      <workItem from="1576812538799" duration="6175000" />
+      <workItem from="1576820893055" duration="4019000" />
+      <workItem from="1576895542962" duration="3707000" />
+      <workItem from="1576922146331" duration="83000" />
+      <workItem from="1576922244026" duration="1881000" />
+      <workItem from="1577015507408" duration="1115000" />
+      <workItem from="1577073617119" duration="1316000" />
+      <workItem from="1577074973514" duration="114000" />
+      <workItem from="1577149937693" duration="24807000" />
+      <workItem from="1577195853541" duration="231000" />
+      <workItem from="1577254495293" duration="2041000" />
+      <workItem from="1577258431894" duration="118000" />
+      <workItem from="1606720417436" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Plugins" timestamp="1576922228678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1576922228678" />
+    <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576819952246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1576819952246" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1577188509296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577188509296" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577166850751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1577166850751" />
+    <state x="481" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576923988231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1576923988231" />
+    <state x="798" y="167" key="FileChooserDialogImpl" timestamp="1577196083941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="798" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577196083941" />
+    <state width="1493" height="146" key="GridCell.Tab.0.bottom" timestamp="1577258548900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577258548900" />
+    <state width="1493" height="146" key="GridCell.Tab.0.center" timestamp="1577258548900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577258548900" />
+    <state width="1493" height="146" key="GridCell.Tab.0.left" timestamp="1577258548900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577258548900" />
+    <state width="1493" height="146" key="GridCell.Tab.0.right" timestamp="1577258548900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577258548900" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1577186837492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577186837492" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577258456045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577258456045" />
+    <state x="920" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1576144248105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="920" y="38" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1576144248105" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1577166978172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577166978172" />
+  </component>
+</project>
